@@ -1,1 +1,1 @@
-# AI-DxMH-Artificial-Intelligence-Diagnosis-for-Modern-Health
+# AI-DxMH - Artificial Intelligence Diagnosis for Modern Health
