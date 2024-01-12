@@ -21,6 +21,3 @@ Technologies used in the project:
 *   Python
 *   Large Language Model(LLM)
 
-<h2>🛡️ License:</h2>
-
-This project is licensed under the
