@@ -10,7 +10,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Vaishakgkumar/AI-DxMH-Artificial-Intelligence-Diagnosis-for-Modern-Health/assets/70128944/e3f9feea-a925-48d3-a75f-cd79bc380530" alt="project-screenshot" width="500" height="500">
+<img src="https://github.com/Vaishakgkumar/AI-DxMH-Artificial-Intelligence-Diagnosis-for-Modern-Health/assets/70128944/e3f9feea-a925-48d3-a75f-cd79bc380530" alt="project-screenshot" width="700" height="500">
 
   
 <h2>💻 Built with</h2>
